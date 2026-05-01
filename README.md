@@ -5,14 +5,16 @@
 ---
 
 ## 📁 Portfolio Structure
+``` 
 qa-manual-portfolio/
-├── 📂 test-cases/ # Detailed test scenarios
-├── 📂 bug-reports/ # Structured issue reports
-├── 📂 checklists/ # Quick validation guides
-├── 📂 decomposition/ # Layout and logic breakdowns
+├── 📂 test-cases/             # Detailed test scenarios
+├── 📂 bug-reports/            # Structured issue reports
+├── 📂 checklists/             # Quick validation guides
+├── 📂 decomposition/          # Layout and logic breakdowns
 ├── 📂 test-design-techniques/ # EP & BVA analysis
-├── 📂 test-reports/ # Execution summaries and logs
-└── 📜 README.md # This file
+├── 📂 test-reports/           # Execution summaries and logs
+└── 📜 README.md               # This file 
+```
 
 ## 🛠️ Testing Artifacts
 
