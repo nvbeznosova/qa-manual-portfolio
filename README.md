@@ -1,6 +1,6 @@
 # QA Manual Portfolio
 
-**👋 Hi!** I'm Nadia, a Junior QA specialist. This portfolio demonstrates my skills in manual testing, including creating and maintaining test documentation.
+This portfolio demonstrates my skills in manual testing, including creating and maintaining test documentation.
 
 ---
 
