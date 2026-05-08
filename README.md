@@ -35,3 +35,4 @@ qa-manual-portfolio/
 
 *   **Email:** nvbeznosova@gmail.com
 *   **GitHub:** [nvbeznosova](https://github.com/nvbeznosova)
+*   **Telegram:** [nadiavbeznosova](https://t.me/nadiabeznosova)
