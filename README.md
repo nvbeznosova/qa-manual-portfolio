@@ -33,6 +33,6 @@ qa-manual-portfolio/
 
 ## 📫 Contact Me
 
+*   **Telegram:** [nadiabeznosova](https://t.me/nadiabeznosova)
 *   **Email:** nvbeznosova@gmail.com
 *   **GitHub:** [nvbeznosova](https://github.com/nvbeznosova)
-*   **Telegram:** [nadiavbeznosova](https://t.me/nadiabeznosova)
